@@ -1,0 +1,95 @@
+{Environment
+	{FilesPath  C:\USERS\PROF JAYASINGHE\DESKTOP\ALOKAPCB\TMC 4671 BOARD E2\TMC 4671 DESIGN PARALLEL BOARD REV1}
+}
+{Layers
+	{Layer  1
+		{File        TMC 4671 DESIGN.TOP}
+		{LyrName     -}
+		{ApList      }
+		{Visibility  On}
+		{FlashColor  Green}
+		{DrawColor   Green}
+		{Type        Top}
+	}
+	{Layer  2
+		{File        TMC 4671 DESIGN.BOT}
+		{LyrName     -}
+		{ApList      }
+		{Visibility  On}
+		{FlashColor  Red}
+		{DrawColor   Red}
+		{Type        Bottom}
+	}
+	{Layer  3
+		{File        TMC 4671 DESIGN.SMT}
+		{LyrName     -}
+		{ApList      }
+		{Visibility  On}
+		{FlashColor  White}
+		{DrawColor   White}
+		{Type        Other}
+	}
+	{Layer  4
+		{File        TMC 4671 DESIGN.SMB}
+		{LyrName     -}
+		{ApList      }
+		{Visibility  On}
+		{FlashColor  White}
+		{DrawColor   White}
+		{Type        Other}
+	}
+	{Layer  5
+		{File        TMC 4671 DESIGN.SST}
+		{LyrName     -}
+		{ApList      }
+		{Visibility  On}
+		{FlashColor  White}
+		{DrawColor   White}
+		{Type        Other}
+	}
+	{Layer  6
+		{File        TMC 4671 DESIGN.SSB}
+		{LyrName     -}
+		{ApList      }
+		{Visibility  On}
+		{FlashColor  White}
+		{DrawColor   White}
+		{Type        Other}
+	}
+	{Layer  7
+		{File        TMC 4671 DESIGN.AST}
+		{LyrName     -}
+		{ApList      }
+		{Visibility  On}
+		{FlashColor  White}
+		{DrawColor   White}
+		{Type        Other}
+	}
+	{Layer  8
+		{File        TMC 4671 DESIGN.DRD}
+		{LyrName     -}
+		{ApList      }
+		{Visibility  On}
+		{FlashColor  Cyan}
+		{DrawColor   Cyan}
+		{Type        Other}
+	}
+}
+{Format Gerber
+	{Dialect           RS274X}
+	{m.n               3.4}
+	{Mode              Absolute}
+	{ZeroSuppression   Leading}
+	{Terminator        0x2a, 0xD, 0xA}
+	{Metric            No}
+	{Modal             No}
+	{UserData          Yes}
+	{Nets              No}
+	{Gcmds             Yes}
+	{CharSet           ASCII}
+	{Arcs360           No}
+	{ArcsModal         Yes}
+	{HonorCrLf         No}
+	{Comments          Yes}
+	{Flags             0}
+}

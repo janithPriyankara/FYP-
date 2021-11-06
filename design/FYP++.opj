@@ -1,0 +1,148 @@
+(ExpressProject "FYP++"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "D:\orcad 9.2\Capture\LIBRARY\Amplifier.olb"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\LIBRARY\capsym.olb"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\LIBRARY\Connector.olb"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\LIBRARY\Discrete.olb"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\LIBRARY\ElectroMechanical.olb"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\LIBRARY\LineDriverReceiver.olb"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\LIBRARY\Mechanical.olb"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\LIBRARY\MicroController.olb"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\LIBRARY\MicroProcessor.olb"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\LIBRARY\Misc3.olb"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\LIBRARY\MiscLinear.olb"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\LIBRARY\MiscPower.olb"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\LIBRARY\OPAmp.olb"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\LIBRARY\PassiveFilter.olb"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\LIBRARY\Regulator.olb"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\LIBRARY\Transistor.olb"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\Library\My Creation\HANRUN_HR911105A.OLB"
+        (Type "Schematic Library"))
+      (File "D:\orcad 9.2\Capture\Library\My Creation\LM5116.OLB"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\fyp++.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (RootChangedForceReNetlist "x")
+    (Netlist_TAB "5")
+    (EDIF_Netlist_File "FYP++.EDN")
+    (EDIF_Allow_NonEDIF "FALSE")
+    (EDIF_Pin_Names "FALSE")
+    (EDIF_No_Library "FALSE")
+    (EDIF_Net_Props "FALSE")
+    (EDIF_Part_Props "FALSE")
+    (EDIF_Pin_Props "FALSE")
+    (EDIF_Scalars "FALSE")
+    (EDIF_Designators "FALSE")
+    (EDIF_Part_Value "{Value}")
+    (EDIF_PCB_Footprint "{PCB Footprint}")
+    (EDIF_View_Output "FALSE")
+    (LAYOUT_Netlist_File "FYP++.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    (ANNOTATE_Scope "1")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}"))
+  (Folder "Outputs"
+    (File ".\fyp++.edn"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "E:\Not Completed\FYP++\design\fyp++.dsn")
+      (Path "Design Resources" "E:\Not Completed\FYP++\design\fyp++.dsn"
+         "MOTOR_DRIVER_STAGE")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "D:\orcad 9.2\Capture\Library\My Creation\LM5116.OLB")
+      (Path "Outputs")
+      (Select "Design Resources" "E:\Not Completed\FYP++\design\fyp++.dsn"
+         "MOTOR_DRIVER_STAGE" "SMPS"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 -3 492 -2 935"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 696 52 720")
+        (Scroll "0 0")
+        (Zoom "113")
+        (Occurrence "/"))
+      (Path "E:\NOT COMPLETED\FYP++\DESIGN\FYP++.DSN")
+      (Schematic "MOTOR_DRIVER_STAGE")
+      (Page "EP_PORT1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 130 1734 130 758")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\NOT COMPLETED\FYP++\DESIGN\FYP++.DSN")
+      (Schematic "MOTOR_DRIVER_STAGE")
+      (Page "SMPS")))
+  (PartMRUSelector
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "D:\ORCAD 9.2\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "D:\ORCAD 9.2\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "D:\ORCAD 9.2\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (lm5116MHX
+      (FullPartName "lm5116MHX.Normal")
+      (LibraryName "D:\ORCAD 9.2\CAPTURE\LIBRARY\MY CREATION\LM5116.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "D:\ORCAD 9.2\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ($D_HI
+      (LibraryName "D:\ORCAD 9.2\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (HR911105A
+      (FullPartName "HR911105A.Normal")
+      (LibraryName
+         "D:\ORCAD 9.2\CAPTURE\LIBRARY\MY CREATION\HANRUN_HR911105A.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "D:\orcad 9.2\Capture\Library\My Creation"))

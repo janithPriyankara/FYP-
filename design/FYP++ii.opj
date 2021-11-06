@@ -1,0 +1,31 @@
+(ExpressProject "FYP++ii"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\fyp++ii.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (RootChangedForceReNetlist "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects"
+    (File ".\fyp++.opj"
+      (Type "Orcad Project")))
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "E:\NOT COMPLETED\FYP++\design\fyp++ii.dsn")
+      (Path "Design Resources" "E:\NOT COMPLETED\FYP++\design\fyp++ii.dsn"
+         "MOTOR_DRIVER_STAGE")
+      (Path "Design Resources" "E:\NOT COMPLETED\FYP++\design\fyp++ii.dsn"
+         "SCHEMATIC1")
+      (Path "Referenced Projects"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 369 0 593"))
+      (Tab 0))))

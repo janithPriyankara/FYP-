@@ -1,0 +1,304 @@
+Post Processor Report
+OrCAD FILE: D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.MAX
+Mon Feb 22 14:13:16 2021
+
+*********************************************************
+
+Output file: D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.TOP
+
+Aperture totals for D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.TOP:
+---------------------------------------------------------
+D10:  0.0620 ROUND  --       0 Draws,      31 Flashes
+D11:  0.0609 SQUARE --       0 Draws,       1 Flashes
+D12:  0.0500 SQUARE --       0 Draws,      44 Flashes
+D13:  0.0520 ROUND  --       0 Draws,       6 Flashes
+D14:  0.0520 SQUARE --       0 Draws,       6 Flashes
+D15:  0.1000 ROUND  --       0 Draws,       8 Flashes
+D16:  0.1000 x 0.0640 RECTANGLE -----       6 Flashes
+D17:  0.4000 x 0.2750 RECTANGLE -----       2 Flashes
+D18:  0.2000 x 0.0600 RECTANGLE -----       4 Flashes
+D19:  0.2000 x 0.1500 OBLONG    -----       8 Flashes
+D20:  0.0480 x 0.0760 RECTANGLE -----       2 Flashes
+D21:  0.1100 x 0.1300 OBLONG    -----      10 Flashes
+D22:  0.1100 SQUARE --       0 Draws,       2 Flashes
+D23:  0.0580 ROUND  --       0 Draws,       3 Flashes
+D24:  0.0580 SQUARE --       0 Draws,       2 Flashes
+D25:  0.1500 ROUND  --       0 Draws,       5 Flashes
+D26:  0.2750 x 0.4000 RECTANGLE -----       6 Flashes
+D27:  0.0600 x 0.2000 RECTANGLE -----      12 Flashes
+D28:  0.0590 x 0.1120 RECTANGLE -----       4 Flashes
+D29:  0.0240 x 0.0900 RECTANGLE -----      24 Flashes
+D30:  0.1280 x 0.1100 RECTANGLE -----       2 Flashes
+D31:  0.0370 x 0.1100 RECTANGLE -----       6 Flashes
+D32:  0.0120 ROUND  --    1747 Draws,       0 Flashes
+D33:  0.0100 ROUND  --     700 Draws,       0 Flashes
+D34:  0.0180 ROUND  --     189 Draws,       0 Flashes
+D36:  0.0400 ROUND  --      20 Draws,       0 Flashes
+D37:  0.0350 ROUND  --     264 Draws,       0 Flashes
+D38:  0.0500 ROUND  --      43 Draws,       0 Flashes
+D39:  0.0150 ROUND  --       1 Draws,       0 Flashes
+D40:  0.0600 ROUND  --       9 Draws,       0 Flashes
+D41:  0.1200 ROUND  --      15 Draws,       0 Flashes
+D42:  0.0200 ROUND  --       2 Draws,       0 Flashes
+D43:  0.0300 ROUND  --      15 Draws,       0 Flashes
+D44:  0.0160 ROUND  --      25 Draws,       0 Flashes
+D45:  0.0250 ROUND  --      12 Draws,       0 Flashes
+D46:  0.0080 ROUND  --      25 Draws,       0 Flashes
+D72:  0.0250 ROUND  --       0 Draws,      91 Flashes
+D74:  0.0250 ROUND  --       0 Draws,      21 Flashes
+D75:  0.0050 ROUND  --   13036 Draws,       0 Flashes
+---------------------------------------------------------
+ 39 D-Codes      -----   16103 Draws,     306 Flashes
+
+*********************************************************
+
+Output file: D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.BOT
+
+Aperture totals for D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.BOT:
+---------------------------------------------------------
+D10:  0.0620 ROUND  --       0 Draws,      31 Flashes
+D12:  0.0500 SQUARE --       0 Draws,      60 Flashes
+D13:  0.0520 ROUND  --       0 Draws,       6 Flashes
+D14:  0.0520 SQUARE --       0 Draws,       6 Flashes
+D15:  0.1000 ROUND  --       0 Draws,       8 Flashes
+D19:  0.2000 x 0.1500 OBLONG    -----       8 Flashes
+D21:  0.1100 x 0.1300 OBLONG    -----      10 Flashes
+D22:  0.1100 SQUARE --       0 Draws,       2 Flashes
+D23:  0.0580 ROUND  --       0 Draws,       3 Flashes
+D24:  0.0580 SQUARE --       0 Draws,       2 Flashes
+D25:  0.1500 ROUND  --       0 Draws,       5 Flashes
+D32:  0.0120 ROUND  --     990 Draws,       0 Flashes
+D33:  0.0100 ROUND  --      86 Draws,       0 Flashes
+D34:  0.0180 ROUND  --     272 Draws,       0 Flashes
+D36:  0.0400 ROUND  --       9 Draws,       0 Flashes
+D37:  0.0350 ROUND  --     219 Draws,       0 Flashes
+D38:  0.0500 ROUND  --      55 Draws,       0 Flashes
+D41:  0.1200 ROUND  --      12 Draws,       0 Flashes
+D42:  0.0200 ROUND  --       2 Draws,       0 Flashes
+D44:  0.0160 ROUND  --      62 Draws,       0 Flashes
+D47:  0.0609 ROUND  --       0 Draws,       1 Flashes
+D48:  0.0630 x 0.0709 RECTANGLE -----       6 Flashes
+D49:  0.0500 x 0.0300 RECTANGLE -----       3 Flashes
+D50:  0.1000 x 0.1051 RECTANGLE -----       3 Flashes
+D51:  0.1120 x 0.0590 RECTANGLE -----       8 Flashes
+D52:  0.0180 x 0.0590 RECTANGLE -----       8 Flashes
+D53:  0.0590 x 0.0180 RECTANGLE -----      16 Flashes
+D54:  0.1100 x 0.1280 RECTANGLE -----       2 Flashes
+D55:  0.1100 x 0.0370 RECTANGLE -----       6 Flashes
+D72:  0.0250 ROUND  --       0 Draws,      91 Flashes
+D74:  0.0250 ROUND  --       0 Draws,      21 Flashes
+D75:  0.0050 ROUND  --    8981 Draws,       0 Flashes
+---------------------------------------------------------
+ 32 D-Codes      -----   10688 Draws,     306 Flashes
+
+*********************************************************
+
+Output file: D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.SMT
+
+Aperture totals for D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.SMT:
+---------------------------------------------------------
+D12:  0.0500 SQUARE --       0 Draws,      44 Flashes
+D13:  0.0520 ROUND  --       0 Draws,       6 Flashes
+D14:  0.0520 SQUARE --       0 Draws,       6 Flashes
+D15:  0.1000 ROUND  --       0 Draws,       8 Flashes
+D16:  0.1000 x 0.0640 RECTANGLE -----       6 Flashes
+D17:  0.4000 x 0.2750 RECTANGLE -----       2 Flashes
+D18:  0.2000 x 0.0600 RECTANGLE -----       4 Flashes
+D19:  0.2000 x 0.1500 OBLONG    -----       8 Flashes
+D20:  0.0480 x 0.0760 RECTANGLE -----       2 Flashes
+D22:  0.1100 SQUARE --       0 Draws,       2 Flashes
+D23:  0.0580 ROUND  --       0 Draws,       3 Flashes
+D24:  0.0580 SQUARE --       0 Draws,       2 Flashes
+D26:  0.2750 x 0.4000 RECTANGLE -----       6 Flashes
+D27:  0.0600 x 0.2000 RECTANGLE -----      12 Flashes
+D28:  0.0590 x 0.1120 RECTANGLE -----       4 Flashes
+D29:  0.0240 x 0.0900 RECTANGLE -----      24 Flashes
+D30:  0.1280 x 0.1100 RECTANGLE -----       2 Flashes
+D31:  0.0370 x 0.1100 RECTANGLE -----       6 Flashes
+D56:  0.0669 ROUND  --       0 Draws,      31 Flashes
+D57:  0.0660 ROUND  --       0 Draws,       1 Flashes
+D60:  0.1050 ROUND  --       0 Draws,       5 Flashes
+D72:  0.0250 ROUND  --       0 Draws,      91 Flashes
+D73:  0.1100 ROUND  --       0 Draws,      10 Flashes
+D74:  0.0250 ROUND  --       0 Draws,      21 Flashes
+---------------------------------------------------------
+ 24 D-Codes      -----       0 Draws,     306 Flashes
+
+*********************************************************
+
+Output file: D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.SMB
+
+Aperture totals for D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.SMB:
+---------------------------------------------------------
+D12:  0.0500 SQUARE --       0 Draws,      60 Flashes
+D13:  0.0520 ROUND  --       0 Draws,       6 Flashes
+D14:  0.0520 SQUARE --       0 Draws,       6 Flashes
+D15:  0.1000 ROUND  --       0 Draws,       8 Flashes
+D19:  0.2000 x 0.1500 OBLONG    -----       8 Flashes
+D22:  0.1100 SQUARE --       0 Draws,       2 Flashes
+D23:  0.0580 ROUND  --       0 Draws,       3 Flashes
+D24:  0.0580 SQUARE --       0 Draws,       2 Flashes
+D48:  0.0630 x 0.0709 RECTANGLE -----       6 Flashes
+D49:  0.0500 x 0.0300 RECTANGLE -----       3 Flashes
+D50:  0.1000 x 0.1051 RECTANGLE -----       3 Flashes
+D51:  0.1120 x 0.0590 RECTANGLE -----       8 Flashes
+D54:  0.1100 x 0.1280 RECTANGLE -----       2 Flashes
+D55:  0.1100 x 0.0370 RECTANGLE -----       6 Flashes
+D56:  0.0669 ROUND  --       0 Draws,      31 Flashes
+D57:  0.0660 ROUND  --       0 Draws,       1 Flashes
+D60:  0.1050 ROUND  --       0 Draws,       5 Flashes
+D62:  0.0220 x 0.0630 RECTANGLE -----       8 Flashes
+D63:  0.0630 x 0.0220 RECTANGLE -----      16 Flashes
+D72:  0.0250 ROUND  --       0 Draws,      91 Flashes
+D73:  0.1100 ROUND  --       0 Draws,      10 Flashes
+D74:  0.0250 ROUND  --       0 Draws,      21 Flashes
+---------------------------------------------------------
+ 22 D-Codes      -----       0 Draws,     306 Flashes
+
+*********************************************************
+
+Output file: D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.SST
+
+Aperture totals for D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.SST:
+---------------------------------------------------------
+D33:  0.0100 ROUND  --     196 Draws,       0 Flashes
+D46:  0.0080 ROUND  --     419 Draws,       0 Flashes
+D64:  0.0070 ROUND  --      46 Draws,       0 Flashes
+D65:  0.0060 ROUND  --     602 Draws,       0 Flashes
+D66:  0.0024 ROUND  --      32 Draws,       0 Flashes
+D67:  0.0118 ROUND  --     101 Draws,       0 Flashes
+D68:  0.0030 ROUND  --      36 Draws,       0 Flashes
+D69:  0.0040 ROUND  --      31 Draws,       0 Flashes
+---------------------------------------------------------
+  8 D-Codes      -----    1463 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.SSB
+
+Aperture totals for D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.SSB:
+---------------------------------------------------------
+D46:  0.0080 ROUND  --      41 Draws,       0 Flashes
+D58:  0.0787 ROUND  --       0 Draws,       8 Flashes
+D65:  0.0060 ROUND  --     876 Draws,       0 Flashes
+D68:  0.0030 ROUND  --      66 Draws,       0 Flashes
+D70:  0.0120 SQUARE --       0 Draws,       6 Flashes
+---------------------------------------------------------
+  5 D-Codes      -----     983 Draws,      14 Flashes
+
+*********************************************************
+
+Output file: D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.AST
+
+Aperture totals for D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.AST:
+---------------------------------------------------------
+D12:  0.0500 SQUARE --       0 Draws,      44 Flashes
+D13:  0.0520 ROUND  --       0 Draws,       6 Flashes
+D14:  0.0520 SQUARE --       0 Draws,       6 Flashes
+D15:  0.1000 ROUND  --       0 Draws,      10 Flashes
+D16:  0.1000 x 0.0640 RECTANGLE -----       6 Flashes
+D17:  0.4000 x 0.2750 RECTANGLE -----       2 Flashes
+D18:  0.2000 x 0.0600 RECTANGLE -----       4 Flashes
+D20:  0.0480 x 0.0760 RECTANGLE -----       2 Flashes
+D23:  0.0580 ROUND  --       0 Draws,       3 Flashes
+D24:  0.0580 SQUARE --       0 Draws,       2 Flashes
+D26:  0.2750 x 0.4000 RECTANGLE -----       6 Flashes
+D27:  0.0600 x 0.2000 RECTANGLE -----      12 Flashes
+D28:  0.0590 x 0.1120 RECTANGLE -----       4 Flashes
+D33:  0.0100 ROUND  --     509 Draws,       0 Flashes
+D34:  0.0180 ROUND  --       6 Draws,       0 Flashes
+D46:  0.0080 ROUND  --     976 Draws,       0 Flashes
+D58:  0.0787 ROUND  --       0 Draws,       8 Flashes
+D59:  0.1000 SQUARE --       0 Draws,       2 Flashes
+D64:  0.0070 ROUND  --      46 Draws,       0 Flashes
+D65:  0.0060 ROUND  --    1228 Draws,       0 Flashes
+D68:  0.0030 ROUND  --     114 Draws,       0 Flashes
+D71:  0.0010 ROUND  --     162 Draws,       0 Flashes
+---------------------------------------------------------
+ 22 D-Codes      -----    3041 Draws,     117 Flashes
+
+*********************************************************
+
+Output file: D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DRD
+
+Aperture totals for D:\ORCAD_PCB\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DRD:
+---------------------------------------------------------
+D33:  0.0100 ROUND  --    1245 Draws,       0 Flashes
+D34:  0.0180 ROUND  --       6 Draws,       0 Flashes
+---------------------------------------------------------
+  2 D-Codes      -----    1251 Draws,       0 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.0620 ROUND  --       0 Draws,      62 Flashes
+D11:  0.0609 SQUARE --       0 Draws,       1 Flashes
+D12:  0.0500 SQUARE --       0 Draws,     252 Flashes
+D13:  0.0520 ROUND  --       0 Draws,      30 Flashes
+D14:  0.0520 SQUARE --       0 Draws,      30 Flashes
+D15:  0.1000 ROUND  --       0 Draws,      42 Flashes
+D16:  0.1000 x 0.0640 RECTANGLE -----      18 Flashes
+D17:  0.4000 x 0.2750 RECTANGLE -----       6 Flashes
+D18:  0.2000 x 0.0600 RECTANGLE -----      12 Flashes
+D19:  0.2000 x 0.1500 OBLONG    -----      32 Flashes
+D20:  0.0480 x 0.0760 RECTANGLE -----       6 Flashes
+D21:  0.1100 x 0.1300 OBLONG    -----      20 Flashes
+D22:  0.1100 SQUARE --       0 Draws,       8 Flashes
+D23:  0.0580 ROUND  --       0 Draws,      15 Flashes
+D24:  0.0580 SQUARE --       0 Draws,      10 Flashes
+D25:  0.1500 ROUND  --       0 Draws,      10 Flashes
+D26:  0.2750 x 0.4000 RECTANGLE -----      18 Flashes
+D27:  0.0600 x 0.2000 RECTANGLE -----      36 Flashes
+D28:  0.0590 x 0.1120 RECTANGLE -----      12 Flashes
+D29:  0.0240 x 0.0900 RECTANGLE -----      48 Flashes
+D30:  0.1280 x 0.1100 RECTANGLE -----       4 Flashes
+D31:  0.0370 x 0.1100 RECTANGLE -----      12 Flashes
+D32:  0.0120 ROUND  --    2737 Draws,       0 Flashes
+D33:  0.0100 ROUND  --    2736 Draws,       0 Flashes
+D34:  0.0180 ROUND  --     473 Draws,       0 Flashes
+D36:  0.0400 ROUND  --      29 Draws,       0 Flashes
+D37:  0.0350 ROUND  --     483 Draws,       0 Flashes
+D38:  0.0500 ROUND  --      98 Draws,       0 Flashes
+D39:  0.0150 ROUND  --       1 Draws,       0 Flashes
+D40:  0.0600 ROUND  --       9 Draws,       0 Flashes
+D41:  0.1200 ROUND  --      27 Draws,       0 Flashes
+D42:  0.0200 ROUND  --       4 Draws,       0 Flashes
+D43:  0.0300 ROUND  --      15 Draws,       0 Flashes
+D44:  0.0160 ROUND  --      87 Draws,       0 Flashes
+D45:  0.0250 ROUND  --      12 Draws,       0 Flashes
+D46:  0.0080 ROUND  --    1461 Draws,       0 Flashes
+D47:  0.0609 ROUND  --       0 Draws,       1 Flashes
+D48:  0.0630 x 0.0709 RECTANGLE -----      12 Flashes
+D49:  0.0500 x 0.0300 RECTANGLE -----       6 Flashes
+D50:  0.1000 x 0.1051 RECTANGLE -----       6 Flashes
+D51:  0.1120 x 0.0590 RECTANGLE -----      16 Flashes
+D52:  0.0180 x 0.0590 RECTANGLE -----       8 Flashes
+D53:  0.0590 x 0.0180 RECTANGLE -----      16 Flashes
+D54:  0.1100 x 0.1280 RECTANGLE -----       4 Flashes
+D55:  0.1100 x 0.0370 RECTANGLE -----      12 Flashes
+D56:  0.0669 ROUND  --       0 Draws,      62 Flashes
+D57:  0.0660 ROUND  --       0 Draws,       2 Flashes
+D58:  0.0787 ROUND  --       0 Draws,      16 Flashes
+D59:  0.1000 SQUARE --       0 Draws,       2 Flashes
+D60:  0.1050 ROUND  --       0 Draws,      10 Flashes
+D62:  0.0220 x 0.0630 RECTANGLE -----       8 Flashes
+D63:  0.0630 x 0.0220 RECTANGLE -----      16 Flashes
+D64:  0.0070 ROUND  --      92 Draws,       0 Flashes
+D65:  0.0060 ROUND  --    2706 Draws,       0 Flashes
+D66:  0.0024 ROUND  --      32 Draws,       0 Flashes
+D67:  0.0118 ROUND  --     101 Draws,       0 Flashes
+D68:  0.0030 ROUND  --     216 Draws,       0 Flashes
+D69:  0.0040 ROUND  --      31 Draws,       0 Flashes
+D70:  0.0120 SQUARE --       0 Draws,       6 Flashes
+D71:  0.0010 ROUND  --     162 Draws,       0 Flashes
+D72:  0.0250 ROUND  --       0 Draws,     364 Flashes
+D73:  0.1100 ROUND  --       0 Draws,      20 Flashes
+D74:  0.0250 ROUND  --       0 Draws,      84 Flashes
+D75:  0.0050 ROUND  --   22017 Draws,       0 Flashes
+---------------------------------------------------------
+ 64 D-Codes      -----   33529 Draws,    1355 Flashes
+
+
+No warnings or errors.
