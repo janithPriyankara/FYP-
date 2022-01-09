@@ -25,10 +25,28 @@
     (TRUE)
     (TRUE)
     (TRUE)
-    (TRUE))
+    (TRUE)
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}")
+    (TRUE)
+    (TRUE)
+    (CrossRef_Scope "0")
+    (Crossref__Mode "0")
+    (CrossRef_Sorting "0")
+    (CrossRef_Destination_File
+       "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.XRF")
+    (CrossRef_XY "FALSE")
+    (CrossRef_Unused "FALSE")
+    (XRF_View_Output "FALSE"))
   (Folder "Outputs"
     (File ".\universal_servo_driver_version6.mnl"
-      (Type "LAYOUT Netlist File")))
+      (Type "LAYOUT Netlist File"))
+    (File ".\universal_servo_driver_version6.xrf"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (LED
@@ -132,15 +150,143 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "E:\NOT COMPLETED\FYP++\src\universal servo driver v6_1\universal servo driver v6_1\universal_servo_driver_version6.dsn")
+         "G:\Not Completed\FYP++\src\Universal Servo Driver V6_1\Universal Servo Driver V6_1\universal_servo_driver_version6.dsn")
+      (Path "Design Resources"
+         "G:\Not Completed\FYP++\src\Universal Servo Driver V6_1\Universal Servo Driver V6_1\universal_servo_driver_version6.dsn"
+         "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources"
-         "E:\NOT COMPLETED\FYP++\src\universal servo driver v6_1\universal servo driver v6_1\universal_servo_driver_version6.dsn"
-         "SCHEMATIC1"))
+         "G:\Not Completed\FYP++\src\Universal Servo Driver V6_1\Universal Servo Driver V6_1\universal_servo_driver_version6.dsn"
+         "SCHEMATIC1" "MC_Input Output"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 0 604 -8 -31 841 1118 65 450"))
-      (Tab 0)))
+        (Placement "44 0 1 320 940 -8 -31 208 1744 208 848"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 160 952 -8 -31 130 724 130 782")
+        (Scroll "0 0")
+        (Zoom "113")
+        (Occurrence "/"))
+      (Path
+         "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MC_ENC&ADC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1536 0 640")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "SERVO CONTROLLER MODULE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1588 52 692")
+        (Scroll "0 0")
+        (Zoom "113")
+        (Occurrence "/"))
+      (Path
+         "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MC_PIN_HEADERS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1640 104 744")
+        (Scroll "0 0")
+        (Zoom "113")
+        (Occurrence "/"))
+      (Path
+         "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MC_TMC4671_CHIP"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1692 156 796")
+        (Scroll "0 0")
+        (Zoom "113")
+        (Occurrence "/"))
+      (Path
+         "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "UC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 754 156 812")
+        (Scroll "0 0")
+        (Zoom "144")
+        (Occurrence "/"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1511 0 672")
+        (Scroll "0 0")
+        (Zoom "113"))
+      (Path
+         "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "EP_PORT1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 780 182 838")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "CURRENT SENSING"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 624 26 682")
+        (Scroll "264 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MC_STP_DIR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 650 52 708")
+        (Scroll "291 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MC_Input Output"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 702 104 760")
+        (Scroll "291 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "SMPS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 728 130 786")
+        (Scroll "111 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MC_POWER-REGS")))
   (LastUsedLibraryBrowseDirectory "C:\Program Files\Orcad\Capture\Library"))

@@ -1,0 +1,105 @@
+Sun Jan 09 13:24:32 Saved as file G:\NOT COMPLETED\FYP++\SRC\LIB\UL_HR911105A\HR911106A.MAX
+Sun Jan 09 13:25:18 Saved as file G:\NOT COMPLETED\FYP++\SRC\LIB\UL_HR911105A\HR911106A.MAX
+Sun Jan 09 13:26:10 Saved as file G:\NOT COMPLETED\FYP++\SRC\LIB\UL_HR911105A\HR911105A.LLB
+Sun Jan 09 13:26:24 Loaded file G:\NOT COMPLETED\FYP++\SRC\LIB\UL_HR911105A\HR911105A.LLB
+Sun Jan 09 13:26:26 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\data\template.imp
+Sun Jan 09 13:26:29 Loaded file G:\NOT COMPLETED\FYP++\SRC\LIB\UL_HR911105A\HR911105A.LLB
+Sun Jan 09 13:26:29 Loaded file G:\NOT COMPLETED\FYP++\SRC\LIB\UL_TMC4671-LA\TMC4671LA.LLB
+Sun Jan 09 13:26:29 Loaded file G:\NOT COMPLETED\FYP++\SRC\LIB\UL_SN74LVC3G17DCUR\SN74LVC3G17DCUR.LLB
+Sun Jan 09 13:26:29 Loaded file G:\NOT COMPLETED\FYP++\SRC\LIB\UL_ATMEGA328P-AUR\ATMEGA328P.LLB
+Sun Jan 09 13:26:29 Loaded file G:\NOT COMPLETED\FYP++\SRC\LIB\UL_LM5116WG-NOPB\LM5116.LLB
+Sun Jan 09 13:26:29 Loaded file G:\NOT COMPLETED\FYP++\SRC\LIB\UL_BAS516\BAS516115.LLB
+Sun Jan 09 13:26:29 Loaded file G:\NOT COMPLETED\FYP++\SRC\LIB\UL_SRR1260-150M\INDUCTOR_12MM.LLB
+Sun Jan 09 13:26:29 Loaded file G:\NOT COMPLETED\FYP++\SRC\LIB\UL_ASDMB-25-000MHZ-LC-T\ASDMB-25.000MHZ-LC-T.LLB
+Sun Jan 09 13:26:29 Loaded file G:\NOT COMPLETED\FYP++\SRC\LIB\UL_20-000MHZ-HC49-4H-30\XTAL_THT_16MHZ.LLB
+Sun Jan 09 13:26:29 Loaded file G:\NOT COMPLETED\FYP++\SRC\LIB\UL_20-000MHZ-HC49-4H-30\XTAL_THT.MAX
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\BCON100T.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\BCON156T.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\BGA.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\CLCC.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\DCON050T.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\DCON085T.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\DIMM050F.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\DIMM050T.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\DIN.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\DIP100B.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\DIP100T.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\DSUBT.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\ECON100T.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\FBUS.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\ISA.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\JUMPER.LLB
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\LAYOUT.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\LCON100T.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\PC104.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\PCI.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\PCON100T.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\PCON156T.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\PGA.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\PLCC.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\QUAD.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\QUADB.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\RELAY.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\RF.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\SBUS.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\SIMM050F.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\SIMM050T.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\SIMM100F.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\SIMM100T.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\SIP.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\SM.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\SOG.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\SOJ.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\STIFF.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\TELE.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\TM_AXIAL.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\TM_CAP_P.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\TM_CYLND.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\TM_DIODE.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\TM_DISC.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\TM_RAD.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\TO.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\TRAINING.LLB
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\VRES.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\WCON100T.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\XT.llb
+Sun Jan 09 13:26:29 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\library\ZIGZAG.llb
+Sun Jan 09 13:26:29 Loaded file G:\NOT COMPLETED\FYP++\SRC\LIB\UL_HR911105A\HR911105A.LLB
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:26:29 Footprint coords will be rounded to nearest base unit.
+Sun Jan 09 13:30:38 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\data\template.imp
+Sun Jan 09 13:30:38 Loaded file D:\ORCAD9P2\LAYOUT_PLUS\data\template.imp

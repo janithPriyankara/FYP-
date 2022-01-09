@@ -1,0 +1,217 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: MOTOR_DRIVER_STAGE
+--------------------------------------------------
+Checking Electrical Rules 
+ERROR:  [DRC0005]  Unconnected pin BOB1,CSN
+                    MOTOR_DRIVER_STAGE, MC_SERVO CONTROLLER MODULE  (131.06, 105.41) 
+ERROR:  [DRC0005]  Unconnected pin BOB1,SCK
+                    MOTOR_DRIVER_STAGE, MC_SERVO CONTROLLER MODULE  (131.06, 110.49) 
+ERROR:  [DRC0005]  Unconnected pin U12,AENC_UX_NEG
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (111.76, 116.84) 
+ERROR:  [DRC0005]  Unconnected pin U12,AENC_UX_POS
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (111.76, 114.30) 
+ERROR:  [DRC0005]  Unconnected pin U12,AENC_VN_NEG
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (111.76, 121.92) 
+ERROR:  [DRC0005]  Unconnected pin U12,AENC_VN_POS
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (111.76, 119.38) 
+ERROR:  [DRC0005]  Unconnected pin U12,AENC_WY_NEG
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (111.76, 127.00) 
+ERROR:  [DRC0005]  Unconnected pin U12,AENC_WY_POS
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (111.76, 124.46) 
+ERROR:  [DRC0005]  Unconnected pin U12,AGPI_A
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (111.76, 104.14) 
+ERROR:  [DRC0005]  Unconnected pin U12,AGPI_B
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (111.76, 106.68) 
+ERROR:  [DRC0005]  Unconnected pin U12,ENC2_A
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (259.08, 86.36) 
+ERROR:  [DRC0005]  Unconnected pin U12,ENC2_B
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (259.08, 83.82) 
+ERROR:  [DRC0005]  Unconnected pin U12,ENC2_N
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (259.08, 81.28) 
+ERROR:  [DRC0005]  Unconnected pin U12,HALL_B
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (111.76, 144.78) 
+ERROR:  [DRC0005]  Unconnected pin U12,HALL_UX
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (111.76, 147.32) 
+ERROR:  [DRC0005]  Unconnected pin U12,HALL_WY
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (111.76, 142.24) 
+ERROR:  [DRC0005]  Unconnected pin U12,PWM_I
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (259.08, 101.60) 
+ERROR:  [DRC0005]  Unconnected pin U12,PWM_IDLE_H
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (259.08, 99.06) 
+ERROR:  [DRC0005]  Unconnected pin U12,PWM_IDLE_L
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (259.08, 96.52) 
+ERROR:  [DRC0005]  Unconnected pin U12,REF_H
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (259.08, 76.20) 
+ERROR:  [DRC0005]  Unconnected pin U12,REF_L
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (259.08, 78.74) 
+ERROR:  [DRC0005]  Unconnected pin U12,REF_R
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (259.08, 73.66) 
+ERROR:  [DRC0005]  Unconnected pin U12,UART_RXD
+                    MOTOR_DRIVER_STAGE, MC_TMC4671_CHIP  (111.76, 76.20) 
+
+Checking for Unconnected Nets
+WARNING:  [DRC0007]  Net has no driving source N16429
+                    MOTOR_DRIVER_STAGE, MD_CURRENT SENSING  (101.85, 35.56) 
+WARNING:  [DRC0007]  Net has no driving source STEP_3.3V
+                    MOTOR_DRIVER_STAGE, MC_SERVO CONTROLLER MODULE  (107.95, 95.25) 
+WARNING:  [DRC0007]  Net has no driving source DIREC_3.3V
+                    MOTOR_DRIVER_STAGE, MC_SERVO CONTROLLER MODULE  (108.20, 100.33) 
+WARNING:  [DRC0006]  Net has fewer than two connections N16429
+                    MOTOR_DRIVER_STAGE, MD_CURRENT SENSING  (101.85, 35.56) 
+WARNING:  [DRC0006]  Net has fewer than two connections STEP_3.3V
+                    MOTOR_DRIVER_STAGE, MC_SERVO CONTROLLER MODULE  (107.95, 95.25) 
+WARNING:  [DRC0006]  Net has fewer than two connections DIREC_3.3V
+                    MOTOR_DRIVER_STAGE, MC_SERVO CONTROLLER MODULE  (108.20, 100.33) 
+
+Checking Off-Page Connections
+WARNING:  [DRC0009]  No matching off-page connector Fan_in
+                    MOTOR_DRIVER_STAGE, MC_Input Output  (248.92, 17.78) 
+WARNING:  [DRC0009]  No matching off-page connector Fan_out
+                    MOTOR_DRIVER_STAGE, MC_Input Output  (248.92, 20.32) 
+WARNING:  [DRC0009]  No matching off-page connector DIREC_3.3V
+                    MOTOR_DRIVER_STAGE, MC_SERVO CONTROLLER MODULE  (108.20, 100.33) 
+WARNING:  [DRC0009]  No matching off-page connector STEP_3.3V
+                    MOTOR_DRIVER_STAGE, MC_SERVO CONTROLLER MODULE  (107.95, 95.25) 
+
+Checking Pin to Port Connections
+
+Checking for Duplicate References
+
+Reporting Ports
+    DBG SPI SCK
+    TXCAN
+    V2
+    CMP1
+    CMP2
+    ADJ
+    TD1+
+    TD1-
+    DBG SPI TRG
+    TD2+
+    TD2-
+    3V3
+    +5V_HMI
+    DBG SPI MISO
+    DBG SPI nSCS
+    RXCAN
+    Reset
+    RD1+
+    CLK25
+    RD1-
+    RD2+
+    RD2-
+    DBG SPI MOSI
+
+Reporting Off-Page Connections
+    SD/OD
+    Fan_in
+    S1
+    PWM_UX1_L
+    W_L
+    12V
+    U
+    W_HIGH_OUT
+    TXD0
+    S2
+    PWM_WY1_L
+    V5
+    STATUS
+    V
+    V_LOW_OUT
+    +5V_HMI
+    S3
+    PWM_VX2_L
+    W
+    RXD0
+    S4
+    V_HB
+    S5
+    CMPOUT1
+    U_HIGH_SOURCE
+    Ack
+    S6
+    CMPOUT2
+    ADC_I0_INN
+    U_LOW_OUT
+    SCK
+    +VCC_CORE
+    ADC_I0
+    ADC_I1_INN
+    5V_HMI
+    +24V
+    DIREC
+    ADC_I1
+    +3V3
+    ENC_N
+    V12IN
+    U_HIGH_OUT
+    DIREC_OC
+    VM
+    ADC_I1_LP
+    +5V
+    ENC1_N
+    5V_BOB
+    GND_HP
+    CS_TOT_OUT
+    V_CS
+    Req
+    CANH
+    MOSI
+    MISO
+    BRAKE
+    ADC_I0_LP
+    U_CS
+    NTC
+    PWM_Y2_H
+    ADC_VM_LP
+    5V_CS
+    GND
+    V_HIGH_SOURCE
+    VTSO
+    Fan_ON
+    Fan_out
+    VCCIO4
+    ENC_A
+    DIREC_3.3V
+    STEP_3.3V
+    U_H
+    STEP_OC
+    S4_in
+    STEP
+    ENC_B
+    ENC1_A
+    3.3V_BOB
+    L_48V
+    V_H
+    V_HIGH_OUT
+    CANL
+    S3_in
+    PWM_UX1_H
+    ENC1_B
+    W_H
+    CS_U_OUT
+    V2ON
+    S2_in
+    PWM_WY1_H
+    PWM_Y2_L
+    N_48V
+    CS_V_OUT
+    BAT_IN
+    S1_in
+    PWM_VX2_H
+    U_L
+    W_LOW_OUT
+    VCC_MC
+    5V
+    CS
+    V_L
+    W_HIGH_SOURCE
+    I_TOT
+
+Reporting Globals
+    GND POWER
+    GND_POWER
+    GND
