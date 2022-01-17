@@ -1,0 +1,31 @@
+AutoECO Report
+FILE-A: G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION8.MAX
+FILE-B: G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding J25.6 to net GND
+Adding C103.1 to net GND
+Adding R108.1 to net GND
+Adding SW1.4 to net GND
+Adding SW1.3 to net GND
+Adding C104.1 to net GND
+Adding C101.1 to net GND
+Adding C102.1 to net GND
+Adding C104.2 to net AREF
+Adding R66.2 to net FAN_ON
+Adding J17.1 to net REQ
+Adding J17.2 to net ACK
+Adding J16.5 to net VTSO
+Adding J16.6 to net SD/OD
+Adding J16.16 to net NTC
+Adding J19.4 to net TXD0
+Adding J19.3 to net RXD0
+Adding J15.13 to net S6
+Adding J15.12 to net S5
+Adding U16.48 to net PWM_Y2_H
+Adding U16.49 to net PWM_Y2_L
+Adding U16.6 to net CS
+Adding BOB1.4 to net STEP_3.3V
+Adding BOB1.5 to net DIREC_3.3V
+Deleting net GND POWER
+*EOF*
+No errors found

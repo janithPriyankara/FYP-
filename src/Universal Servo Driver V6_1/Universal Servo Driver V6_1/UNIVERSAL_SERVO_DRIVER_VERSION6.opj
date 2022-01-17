@@ -41,7 +41,8 @@
        "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.XRF")
     (CrossRef_XY "FALSE")
     (CrossRef_Unused "FALSE")
-    (XRF_View_Output "FALSE"))
+    (XRF_View_Output "FALSE")
+    ( "TRUE"))
   (Folder "Outputs"
     (File ".\universal_servo_driver_version6.mnl"
       (Type "LAYOUT Netlist File"))
@@ -151,23 +152,20 @@
       (Path "Design Resources")
       (Path "Design Resources"
          "G:\Not Completed\FYP++\src\Universal Servo Driver V6_1\Universal Servo Driver V6_1\universal_servo_driver_version6.dsn")
-      (Path "Design Resources"
-         "G:\Not Completed\FYP++\src\Universal Servo Driver V6_1\Universal Servo Driver V6_1\universal_servo_driver_version6.dsn"
-         "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources"
          "G:\Not Completed\FYP++\src\Universal Servo Driver V6_1\Universal Servo Driver V6_1\universal_servo_driver_version6.dsn"
-         "SCHEMATIC1" "MC_Input Output"))
+         "SCHEMATIC1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 320 940 -8 -31 208 1744 208 848"))
+        (Placement "44 2 1 160 940 -8 -31 208 1744 208 848"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 160 952 -8 -31 130 724 130 782")
+        (Placement "44 0 1 160 952 -8 -31 130 724 130 782")
         (Scroll "0 0")
         (Zoom "113")
         (Occurrence "/"))
@@ -180,7 +178,7 @@
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1536 0 640")
         (Scroll "0 0")
-        (Zoom "100")
+        (Zoom "113")
         (Occurrence "/"))
       (Path
          "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
@@ -200,9 +198,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1640 104 744")
-        (Scroll "0 0")
-        (Zoom "113")
+        (Placement "44 2 3 -1 -1 -8 -31 104 1640 104 744")
+        (Scroll "2157 1434")
+        (Zoom "288")
         (Occurrence "/"))
       (Path
          "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
@@ -239,7 +237,7 @@
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 182 780 182 838")
         (Scroll "0 0")
-        (Zoom "100")
+        (Zoom "113")
         (Occurrence "/"))
       (Path
          "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
@@ -249,8 +247,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 26 624 26 682")
-        (Scroll "264 0")
-        (Zoom "100")
+        (Scroll "0 0")
+        (Zoom "113")
         (Occurrence "/"))
       (Path
          "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
@@ -260,8 +258,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 650 52 708")
-        (Scroll "291 0")
-        (Zoom "100")
+        (Scroll "433 0")
+        (Zoom "113")
         (Occurrence "/"))
       (Path
          "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
@@ -271,8 +269,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 702 104 760")
-        (Scroll "291 0")
-        (Zoom "100")
+        (Scroll "106 0")
+        (Zoom "85")
         (Occurrence "/"))
       (Path
          "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
@@ -282,11 +280,44 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 130 728 130 786")
-        (Scroll "111 0")
-        (Zoom "100")
+        (Scroll "0 0")
+        (Zoom "113")
         (Occurrence "/"))
       (Path
          "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "MC_POWER-REGS")))
+      (Page "MC_POWER-REGS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1618 78 750")
+        (Scroll "0 0")
+        (Zoom "113")
+        (Occurrence "/"))
+      (Path
+         "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MOSFET DRIVER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 241 1781 584 1256")
+        (Scroll "0 0")
+        (Zoom "113")
+        (Occurrence "/"))
+      (Path
+         "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "RECTIFIER BRIDGE AND RBR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1670 130 802")
+        (Scroll "0 0")
+        (Zoom "113")
+        (Occurrence "/"))
+      (Path
+         "G:\NOT COMPLETED\FYP++\SRC\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL SERVO DRIVER V6_1\UNIVERSAL_SERVO_DRIVER_VERSION6.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "REGULATORS")))
   (LastUsedLibraryBrowseDirectory "C:\Program Files\Orcad\Capture\Library"))
